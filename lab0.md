@@ -9,3 +9,10 @@
 5. Создал файл .gitignore и включил в него стандартные исключения.
 
 ![Alt text](images/image-7.png)
+
+![Alt text](images/image-8.png)
+
+![Alt text](images/image-9.png)
+
+6. 
+![Alt text](images/image-10.png)
