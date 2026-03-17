@@ -6,8 +6,18 @@ theme:
   name: material
   language: ru
   palette:
-    primary: indigo
-    accent: blue
+    - scheme: default
+      primary: teal
+      accent: light green
+      toggle:
+        icon: material/weather-night
+        name: Switch to dark mode
+    - scheme: slate
+      primary: teal
+      accent: light green
+      toggle:
+        icon: material/weather-sunny
+        name: Switch to light mode 
   features:
     - navigation.tabs
     - navigation.sections
