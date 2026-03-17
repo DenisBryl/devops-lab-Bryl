@@ -1,0 +1,27 @@
+site_name: Денис Брыль
+site_description: Личный сайт и портфолио Дениса Брыля
+site_author: Денис Брыль
+
+theme:
+  name: material
+  language: ru
+  palette:
+    primary: indigo
+    accent: blue
+  features:
+    - navigation.tabs
+    - navigation.sections
+    - navigation.indexes
+    - navigation.top
+    - toc.follow
+    - search.highlight
+    - search.share
+
+nav:
+  - Главная: index.md
+  - Обо мне: about.md
+  - Проекты: projects.md
+  - Контакты: contacts.md
+
+plugins:
+  - search
